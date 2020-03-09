@@ -1,0 +1,22 @@
+Create a folder,
+create-react-app myreactapp
+cd myreactapp
+npm start
+
+
+in vscode install bootstrap
+from terminal - you can start it from vscode, ctrl `
+
+npm i bootstrap@4.1.1
+import it in index.js of the new app folder
+enter import 'bootstrap/dist/css/bootstrap.css'
+
+create a new folder in src called components
+and a file in that called counter.jsx
+
+Simple react snippets is installed 
+in counter.jsx type 
+imrc <tab> this is a code snippet and imports react components
+cc <tab> creates components
+
+name the component Counter
